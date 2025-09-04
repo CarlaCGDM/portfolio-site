@@ -1,0 +1,31 @@
+[
+  {
+    "id": "l1",
+    "title": "AI Chatbot (2D)",
+    "description": "Expressive 2D chatbot prototype using AI APIs; responds with animations; used in a guest lecture.",
+    "link": "#ai-chatbot-2d",
+    "tech": ["React", "Node.js", "AI APIs"],
+    "media": [{ "src": "/media/ai2d-hero.jpg", "alt": "2D bot" }]
+  },
+  {
+    "id": "l2",
+    "title": "AI Island (3D)",
+    "description": "3D world concept exploring character interaction and emotional feedback with AI.",
+    "link": "https://threejs-crossing.netlify.app/",
+    "article":"https://www.linkedin.com/pulse/videojuegos-nativos-web-mec%C3%A1nica-de-npcs-estilo-con-y-nadina-carla-d47oe/?trackingId=nMa2SJpuTsqGhiNt7cWArA%3D%3D",
+    "tech": ["React", "Three.js", "AI APIs"],
+    "media": [
+  { "type": "image", "src": "/media/ai2d-hero.jpg", "alt": "2D bot", "caption": "…" },
+  { "type": "youtube", "youtubeId": "dQw4w9WgXcQ", "caption": "Demo walkthrough" }
+]
+
+  },
+  {
+    "id": "l3",
+    "title": "Blender Automation Tools",
+    "description": "Python add-ons for automating 3D art workflows: batch LOD generation and icon rendering.",
+    "link": "#blender-tools",
+    "tech": ["Python", "Blender API"],
+    "media": [{ "src": "/media/blender-hero.jpg", "alt": "Blender tools" }]
+  }
+]
