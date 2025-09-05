@@ -473,7 +473,7 @@ export default function PortfolioDemo() {
 
             {/* Fixed footer with far-left/far-right alignment */}
             <footer className="fixed bottom-0 left-0 right-0 border-t border-zinc-800 bg-zinc-900/90 backdrop-blur">
-                <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-2 text-xs text-zinc-400">
+                <div className="mx-auto flex max-w-10xl items-center justify-between px-4 py-2 text-xs text-zinc-400">
                     <span className="place-self-start">© {new Date().getFullYear()} • {t.name}</span>
                     <a
                         href="https://github.com/youruser/your-portfolio"
